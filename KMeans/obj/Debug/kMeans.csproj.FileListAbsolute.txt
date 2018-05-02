@@ -1,0 +1,9 @@
+c:\users\anouar ben zahra\documents\visual studio 2015\Projects\kMeans\kMeans\bin\Debug\kMeans.exe.config
+c:\users\anouar ben zahra\documents\visual studio 2015\Projects\kMeans\kMeans\bin\Debug\kMeans.exe
+c:\users\anouar ben zahra\documents\visual studio 2015\Projects\kMeans\kMeans\bin\Debug\kMeans.pdb
+c:\users\anouar ben zahra\documents\visual studio 2015\Projects\kMeans\kMeans\obj\Debug\kMeans.csprojResolveAssemblyReference.cache
+c:\users\anouar ben zahra\documents\visual studio 2015\Projects\kMeans\kMeans\obj\Debug\kMeans.exe
+c:\users\anouar ben zahra\documents\visual studio 2015\Projects\kMeans\kMeans\obj\Debug\kMeans.pdb
+C:\Users\arben\Desktop\kMeans\kMeans\bin\Debug\kMeans.exe.config
+C:\Users\arben\Desktop\kMeans\kMeans\obj\Debug\kMeans.exe
+C:\Users\arben\Desktop\kMeans\kMeans\obj\Debug\kMeans.pdb
