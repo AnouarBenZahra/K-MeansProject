@@ -1,1 +1,1 @@
-# K-MeansProject
+# K-MeansProject Algorithm
