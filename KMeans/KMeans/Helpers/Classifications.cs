@@ -133,7 +133,6 @@ namespace kMeans.KMeans.Helpers
 
         private static int LowIndex(double[] ecart)
         {
-
             int minIndex = 0;
             double minDistance = ecart[0];
             for (int counter = 0; counter < ecart.Length; ++counter)
@@ -146,6 +145,5 @@ namespace kMeans.KMeans.Helpers
             }
             return minIndex;
         }
-
     }
 }
